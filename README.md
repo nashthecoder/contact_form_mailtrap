@@ -39,7 +39,7 @@ This repository demonstrates a simple contact form implementation that sends ema
 5. Access the form at `http://localhost:3000` and submit to see the email in your Mailtrap inbox.
 
 ## Prerequisites
-- Ruby on Rails (version X.X.X)
+- Ruby on Rails (version 7.2.1)
 - Mailtrap account
 - Bootstrap (for front-end design)
 
